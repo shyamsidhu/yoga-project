@@ -1,0 +1,208 @@
+#topbar
+{
+    background-color: black;
+    height: 10px;
+    width: 100%;
+}
+body
+{
+    background-color: white;
+}
+#container
+{
+    background-color:goldenrod;
+    height: 300px;
+    width: 70%;
+    margin: 0px auto;
+margin-bottom: 30px;
+}
+.yoga
+{
+    text-align: center;
+    color:whitesmoke;
+    font-size: 25px;
+}
+
+#header
+{height: 80px;
+background-color:#FEFEFE;
+}
+#header ul
+{
+    float: right;
+    margin-top: 25px;
+    }
+    #header ul li
+    {
+        display: inline;
+        margin-right: 25px;
+    }
+
+#header ul li a{
+    color: grey;
+text-decoration: none;
+font-size: 20px;
+}
+
+#banner img
+{ 
+    height: 45%;
+    width: 100%;  
+     padding-bottom: 15px;
+
+}
+
+#content1
+{
+    width: 32%;
+    height:350px;
+    background-color: orangered;
+    float: left;
+    margin-right: 2%;
+    
+}
+#content2
+{
+    width: 32%;
+    height: 350px;
+    background-color:#FFC502;
+    float: left;
+}
+#content3
+{
+    width: 32%;
+    height: 350px;
+    background-color:#A2C511 ;
+    float: right;
+}
+.heading
+{
+    color: white;
+    margin-left: 50px;
+    font-size: 35px;
+    
+}
+.para1
+{
+    color: white;
+    font-size: 18px;
+    margin-left: 20px;
+  margin-right: 8px;
+}
+.more
+{text-decoration: none;
+color: black;
+background-color: white;
+padding: 1px;
+margin-left: 20px;
+}
+
+
+#bottom1{
+  
+    margin-top: 15px; 
+    width: 60%;
+    background-color:white;
+    height: 300px;
+    image-resolution: 30px;
+    float: left;
+}
+
+#bottom2
+{
+    margin-top: 15px;
+    width: 40%;
+    background-color:white;
+    height: 300px;
+    float: right;
+}
+
+#bottom1 h2
+{
+    color: black;
+    margin-left: 20px;
+}
+#bottom1 p
+{
+    color: black;
+    margin-left: 20px;
+    margin-right: 8px;
+}
+#bottom2 h2
+{
+    color:white;
+    margin-left: 20px;
+}
+
+.design1
+{
+    
+    text-align: center;
+    background-color:tomato;
+}
+#bottom1 h2
+{
+    color: white;
+}
+.box
+{
+    font-size: 20px;
+    image-resolution: 10px;
+}
+.design2
+{text-align: center;
+    background-color: tomato;
+}
+#bottom2 p
+{
+    color: black;
+    margin-left: 20px;
+    margin-right: 8px;
+}
+#bottom2 h2
+{
+    color:white;
+}
+.box2
+{ background-color: palegoldenrod;
+    font-size: 20px;
+    margin-right: 80px;
+        margin-left: 50px;
+}
+<style>
+    body {font-family: Arial, Helvetica, sans-serif;}
+    * {box-sizing: border-box;}
+    
+    input[type=text], select, textarea {
+      width: 100%;
+      padding: 12px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+      margin-top: 6px;
+      margin-bottom: 16px;
+      resize: vertical;
+    }
+    
+    input[type=submit] {
+      background-color: #4CAF50;
+      color: white;
+      padding: 12px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    
+    input[type=submit]:hover {
+      background-color: #45a049;
+    }
+    .last
+    { text-align: right;}
+
+
+    .inquiry {
+      border-radius: 5px;
+      background-color: #f2f2f2;
+      padding: 20px;
+    }
+    </style>
